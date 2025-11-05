@@ -1,5 +1,7 @@
 My simple build of dwm!
 
+I tried to make a install script for debian-based distros, but i didn't tested it! (it should work i think?)
+
 Terminal: Alacritty
 WM: DWM
 
